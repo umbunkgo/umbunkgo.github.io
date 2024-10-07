@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://umbunkgo.github.io/sitemap.html.gz
+Sitemap: https://umbunkgo.github.io/app/sitemap.html.gz
+Sitemap: https://umbunkgo.github.io/assets/sitemap.html.gz
+Sitemap: https://umbunkgo.github.io/css/sitemap.html.gz
+Sitemap: https://umbunkgo.github.io/data/sitemap.html.gz
+Sitemap: https://umbunkgo.github.io/includes/sitemap.html.gz
+Sitemap: https://umbunkgo.github.io/item/sitemap.html.gz
+Sitemap: https://umbunkgo.github.io/src/sitemap.html.gz
